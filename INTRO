@@ -1,0 +1,24 @@
+GameMaker accommodates the creation of cross-platform
+and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, 
+which can be used to develop more advanced games that could not be created just by using the drag and drop features. GameMaker was originally designed 
+to allow novice computer programmers to be able to make computer games without much programming knowledge by use of these actions. 
+ versions of software also focus on appealing to advanced developers.
+
+GameMaker is primarily intended for making games with 2D graphics, 
+allowing out-of-box use of raster graphics, vector graphics (via SWF)
+The engine uses Direct3D on Windows, UWP, and Xbox One;
+OpenGL on macOS and Linux; OpenGL ES on Android and iOS, 
+WebGL or 2d canvas on HTML5, and proprietary APIs on consoles. 
+
+The engine's primary element is an IDE with built-in editors for raster graphics, 
+level design, scripting, paths, and shaders (GLSL or HLSL).
+Additional functionality can be implemented in software's scripting language or platform-specific native extensions.
+In GameMaker Studio 2, you can choose whether to export the game as an NSIS installer, or a .zip file containing the game, 
+ data.win file, and any files added under the "Included Files" tab in the editor.
+
+GameMaker was originally developed by Mark Overmars. The program was first released on 15 November 1999 
+under the name of Animo (at the time, it was just a graphics tool with limited visual scripting capabilities).
+The first versions of the program were being developed in Delphi
+Subsequent releases saw the name changed to Game Maker and software moving towards more general-purpose 2D game development.
+
+
